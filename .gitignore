@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+debug/
+.dify-local.json
+.dify-workflow/
+examples/trpg/app.json
+.env
+.env.*
+!.env.example
+*.bak
+*.tmp
