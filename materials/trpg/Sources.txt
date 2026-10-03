@@ -1,0 +1,37 @@
+落潮镇跑团素材与规则来源
+研究日期：2026-10-03
+
+规则依据
+Fate Accelerated Edition，官方认可的 Fate SRD：
+https://fate-srd.com/fate-accelerated/how-do-stuff-outcomes-actions-and-approaches
+https://fate-srd.com/fate-accelerated/aspects-fate-points
+https://fate-srd.com/fate-accelerated/who-do-you-want-be
+
+许可说明与官方 SRD 入口：
+https://fate-srd.com/official-licensing-fate
+https://fate-srd.com/official-licensing-fate/cc
+https://fate-srd.com/downloads/CC-BY-SRDs.zip
+
+研究选择
+使用六种行动方式与四枚 -1/0/+1 骰的核心机制，降低新手建卡和 AI 状态维护的负担。
+原规则提出仅在失败有意义时掷骰，提供失败、平手、成功、大成功的结果区间。
+本项目据此写成自己的中文摘要与轻量改编，没有导入整本规则或现成商业模组。
+
+本项目的改编
+- 使用固定职业卡，省略特技、完整后果栏、强迫机制与战术交换。
+- 必要线索始终可取得，失败/平手会增加潮水压力。
+- 使用 8 格潮水倒计时、3 格角色压力与最多 2 次的优势资源。
+- 调用角色特质在掷骰前明确声明，花 1 命运点得 +2；不支持事后重掷。
+- 优势用于下次检定；攻击/防御仅作为单次危险行动，不模拟完整战斗。
+这是 Fate 衍生的简化玩法；完整规则仍应参考上述官方来源。
+
+原创内容
+剧本《落潮镇·第十三次钟声》、五个地点、NPC、线索、三个主动结局和两个撤离结局，
+均为本次项目创作；不改写现成商业冒险。正文存于 fog-harbor.json。
+fog-harbor.json 包含主持人真相，玩家如需保持悬念请从工作流或游玩入口开始。
+
+Attribution
+This work is based on Fate Core System and Fate Accelerated Edition (found at https://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/).
+
+规则摘要与机制已经简化改编。Fate 为 Evil Hat Productions, LLC 的商标。
+本项目未使用其标志，也不代表其认可或赞助。
