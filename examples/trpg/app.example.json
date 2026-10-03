@@ -1,0 +1,5 @@
+{
+  "app_id": "YOUR_DIFY_WORKFLOW_APP_ID",
+  "mode": "workflow",
+  "published": false
+}
