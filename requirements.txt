@@ -1,0 +1,4 @@
+dify-ai-workflow-tools @ git+https://github.com/Akabane71/dify-workflow-cli.git@4e929c28769ad1633973315ee59b8e014a34a9f7
+PyYAML>=6.0,<7
+httpx>=0.27,<1
+pytest>=8,<10
